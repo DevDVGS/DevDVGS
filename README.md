@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm DAGS.
 
-<!--
-**DevDVGS/DevDVGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer. Building small projects and open-source tools.
 
-Here are some ideas to get you started:
+### Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[FreshDeploy](https://github.com/DevDVGS/FreshDeploy)**
+
+A lightweight open-source tool for verifying web deployments.
+
+[![npm](https://img.shields.io/npm/v/@devdags/freshdeploy/beta?label=npm%20beta)](https://www.npmjs.com/package/@devdags/freshdeploy)
+[![CI](https://github.com/DevDVGS/FreshDeploy/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/DevDVGS/FreshDeploy/actions/workflows/ci.yml)
+
+### Links
+
+[FreshDeploy on GitHub](https://github.com/DevDVGS/FreshDeploy) · [npm](https://www.npmjs.com/package/@devdags/freshdeploy) · [DEV Community](https://dev.to/dags)
