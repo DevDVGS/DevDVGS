@@ -1,4 +1,4 @@
-﻿# Hi, I'm DAGS.
+# Hi, I'm DAGS.
 
 Software developer. Building small projects and open-source tools.
 
@@ -13,4 +13,4 @@ A lightweight open-source tool for verifying web deployments.
 
 ### Links
 
-[FreshDeploy on GitHub](https://github.com/DevDVGS/FreshDeploy) Â· [npm](https://www.npmjs.com/package/@devdags/freshdeploy) Â· [DEV Community](https://dev.to/devdvgs)
+[FreshDeploy on GitHub](https://github.com/DevDVGS/FreshDeploy) | [npm](https://www.npmjs.com/package/@devdags/freshdeploy) | [DEV Community](https://dev.to/devdvgs)
